@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/QA38_DemoQA_POM" />
+            <option value="$PROJECT_DIR$/QA38_Phonebook_v0" />
+            <option value="$PROJECT_DIR$/QA38_Phonebook_v1" />
+            <option value="$PROJECT_DIR$/QA38_Phonebook_v2" />
+            <option value="$PROJECT_DIR$/QA38_Phonebook_v2_testNG" />
+            <option value="$PROJECT_DIR$/QA38_Phonebook_v3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
